@@ -1,0 +1,6 @@
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\bin\KLMConsulting.dll.config
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\bin\KLMConsulting.dll
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\bin\KLMConsulting.pdb
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\obj\Debug\KLMConsulting.dll
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\obj\Debug\KLMConsulting.pdb
+C:\Learning\KLMConsulting\KLMConsulting\KLMConsulting\obj\Debug\KLMConsulting.csprojResolveAssemblyReference.cache
